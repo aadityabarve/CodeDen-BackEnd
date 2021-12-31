@@ -1,0 +1,26 @@
+You are given an array of 0s and 1s in random order.
+Segregate 0s on left side and 1s on right side of the array [Basically you have to sort the array, but in O(n) time]. Traverse array only once.
+
+<b>Input Format:</b>
+The first line contains and integer T, which indicates the number of test cases.
+The first line of each of the test contains an integer N indicating the number of elements in the array.
+The next line contains N space separated integers.
+
+<b>Output Format</b>
+For each test case print the segregated array without spaces in between.
+
+<b>Sample Input 1:</b>
+1
+6
+0 1 0 0 1 1
+
+<b>Sample Output 1:</b>
+000111
+
+<b>Sample Input 2:</b>
+1
+7
+1 1 0 0 1 1 0
+
+<b>Sample Output 2:</b>
+0001111

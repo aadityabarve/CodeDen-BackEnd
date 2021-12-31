@@ -1,0 +1,29 @@
+You have been given an array a[] of size N which contains elements from 0 to N-1.
+You need to find all the elements occurring more than once in the given array.
+
+<b>Input Format:</b>
+The first line contains and integer T, which indicates the number of test cases.
+The first line of each of the test contains an integer N indicating the number of elements in the array.
+The next line contains N space separated integers.
+
+<b>Output Format:</b>
+For each test case, on the first line print the number of elements occurring more than once.
+On the following line print those elements.
+If there are no elements occurring more than once, print -1.
+
+<b>Sample Input 1:</b>
+1
+6
+1 1 2 3 4 4
+
+<b>Sample Output 1:</b>
+2
+1 4
+
+<b>Sample Input 2:</b>
+1
+5
+1 2 3 4 5
+
+<b>Sample Output 2:</b>
+-1

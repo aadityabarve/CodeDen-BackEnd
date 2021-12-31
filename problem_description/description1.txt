@@ -1,0 +1,27 @@
+You have been given an integer N. Check if the integer is prime or not.
+If the number is prime print 1, else if it is composite print 0.
+
+<b>Note:</b>
+A prime number is a natural number greater than 1 which has only two factors, 1 and the number itself.
+
+<b>Input Format:</b>
+The first line contains and integer T, which indicates the number of test cases.
+Following T lines, each contain an integer N.
+
+<b>Output Format</b>
+Print 1 if the given number N is a prime number else print 0.
+
+<b>Sample Input</b>
+5
+3
+9
+7
+21
+13
+
+<b>Sample Output</b>
+1
+0
+1
+0
+1

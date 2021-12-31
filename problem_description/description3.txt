@@ -1,0 +1,27 @@
+Given an array of positive integers, find the Number Occurring Odd Number of Times.
+All numbers of the array occur an even number of times except one number which occurs an odd number of times.
+Find the number in O(n) time & constant space.
+
+<b>Input Format:</b>
+The first line contains and integer T, which indicates the number of test cases.
+The first line of each of the test contains an integer N indicating the number of elements in the array.
+The next line contains N space separated integers.
+
+<b>Output Format</b>
+For each test case print the number which occurred odd number of times.
+
+<b>Sample Input 1:</b>
+1
+7
+1 1 2 3 3 4 4
+
+<b>Sample Output 1:</b>
+2
+
+<b>Sample Input 2:</b>
+1
+7
+1 1 2 2 3 3 3
+
+<b>Sample Output 2:</b>
+3
